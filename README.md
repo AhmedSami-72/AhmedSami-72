@@ -43,10 +43,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
             width="40" height="40" /> </a> </p>
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sami72&show_icons=true&locale=en&layout=compact"
-        alt="ahmed-sami72" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mohammed-a2&show_icons=true&locale=en&layout=compact"
+        alt="anas-mohammed-a2" /></p>
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ahmed-sami72&show_icons=true&locale=en"
-        alt="ahmed-sami72" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sami72&"
-        alt="ahmed-sami72" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=anas-mohammed-a2&show_icons=true&locale=en"
+        alt="anas-mohammed-a2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mohammed-a2&"
+        alt="anas-mohammed-a2" /></p>
