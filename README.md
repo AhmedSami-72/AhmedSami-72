@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **ahmed.sami.nagy72@gmail.com**
 - 📫 How to reach me **ahmed.sami.nagy
-- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>72@gmail.com**
+- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>72@gmail.com**
 
 
 
