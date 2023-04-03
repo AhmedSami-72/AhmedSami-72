@@ -57,5 +57,5 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=ahmed-sami72&show_icons=true&locale=en"
         alt="ahmed-sami72" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sami72"
-        alt="ahmed-sami72" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sami72&" alt="ahmed-sami72" />
+</p>
