@@ -5,12 +5,12 @@
 - 💬 Ask me about **ahmed.sami.nagy72@gmail.com**
 - 📫 How to reach me **ahmed.sami.nagy72@gmail.com**
 <img align="right"
+    src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
+    width=250px />
 
 
 - 📄 Know about my experiences [I am Junior Front End](I am Junior Front End)
-<img align="right"
-    src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-    width=250px />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/Ahmed_sami72" target="blank"><img align="center"
