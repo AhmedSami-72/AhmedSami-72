@@ -10,7 +10,8 @@
 
 
 - 📄 Know about my experiences [I am Junior Front End](I am Junior Front End)
-- <img src="Untitled-video-Made-with-Clipchamp.gif" width = 20px/>
+
+- <img src="Untitled-video-Made-with-Clipchamp.gif" width = 50px/>
 
 
 <h3 align="left">Connect with me:</h3>
