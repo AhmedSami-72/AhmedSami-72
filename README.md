@@ -38,7 +38,7 @@
   
 #   
 <details>
- <summary><h3>👨‍💻 Fares's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Ahmed's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, linux, theory. And all the while, teaching myself to code and debug.
   </details>
   
