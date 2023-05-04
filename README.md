@@ -51,11 +51,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
   
-   ---
-  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Executioner47&show_icons=true&bg_color=00000000" />
-</div>
-  
 #   
 <details>
  <summary><h3>👨‍💻 Ahmed's Coding Journey</h3></summary>
