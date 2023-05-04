@@ -51,6 +51,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
   
+   ---
+  <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Executioner47&show_icons=true&bg_color=00000000" />
+</div>
   
 #   
 <details>
@@ -58,10 +62,7 @@
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, linux, theory. And all the while, teaching myself to code and debug.
   </details>
   
-  ---
-  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Executioner47&show_icons=true&bg_color=00000000" />
-</div>
+ 
 
 
  <img aling ="left" src="Untitled-video-Made-with-Clipchamp.gif"/>
