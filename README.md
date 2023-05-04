@@ -48,7 +48,6 @@
 </div>
 
 
-- 📄 Know about my experiences [I am Junior Front End](I am Junior Front End)
  <img aling ="left" src="Untitled-video-Made-with-Clipchamp.gif"/>
 
 
