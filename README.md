@@ -24,8 +24,6 @@
  <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=098aed&center=true&repeat=false&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things.;Experienced+Developer;2%2B+Years+Of+Coding+Experience" alt="Typing SVG" /></span>
 </div>
 
-<br/>
-
    <p align="center">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
       <a href="https://github.com/AhmedSami-72?tab=followers">
