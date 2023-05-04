@@ -30,21 +30,21 @@
 </p>
 
 
-    <div align="center">
+   <div align="center">
         <span><img
                 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=098aed&center=true&repeat=false&width=435&lines=Fares+Galal"
                 alt="Typing SVG" /></span>
     </div>
 
-    <div align="center">
+   <div align="center">
         <span><img
                 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=098aed&center=true&repeat=false&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things.;Experienced+Developer;2%2B+Years+Of+Coding+Experience"
                 alt="Typing SVG" /></span>
     </div>
 
-    <br />
+   <br />
 
-    <p align="center">
+   <p align="center">
         <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
             <a href="https://github.com/Executioner47?tab=followers">
                 <img alt="followers" title="Follow me on Github"
