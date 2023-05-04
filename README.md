@@ -15,6 +15,7 @@
 </p>
 
 <br/>
+#  
 
 <div align="center">
   <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=098aed&center=true&repeat=false&width=435&lines=Fares+Galal" alt="Typing SVG" /></span>
