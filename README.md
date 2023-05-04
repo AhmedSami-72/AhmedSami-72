@@ -48,19 +48,6 @@
 </div>
 
 
-
-
-<p align="left"> <a href="https://twitter.com/@Ahmed_sami72" target="blank"><img
-            src="https://img.shields.io/twitter/follow/@Ahmed_sami72?logo=twitter&style=for-the-badge"
-            alt="@Ahmed_sami72" /></a> </p>
-
-
-- 💬 Ask me about **ahmed.sami.nagy72@gmail.com**
-- 📫 How to reach me **ahmed.sami.nagyi@gmail.com**
-
-
-
-
 - 📄 Know about my experiences [I am Junior Front End](I am Junior Front End)
  <img aling ="left" src="Untitled-video-Made-with-Clipchamp.gif"/>
 
