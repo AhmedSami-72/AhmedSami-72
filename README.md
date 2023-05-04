@@ -15,6 +15,12 @@
 </p>
 
 #
+#   
+<details>
+ <summary><h3>👨‍💻 Ahmed's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, linux, theory. And all the while, teaching myself to code and debug.
+  </details>
+#
 <div align="center">
  <span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=098aed&center=true&repeat=false&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things.;Experienced+Developer;2%2B+Years+Of+Coding+Experience" alt="Typing SVG" /></span>
 </div>
